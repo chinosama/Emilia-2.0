@@ -1,0 +1,54 @@
+
+
+.music h1{
+    text-transform: uppercase;
+    font-family: var(--font-titulo);
+    font-size: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.music main{
+    padding: 10px;
+}
+
+.music main ul{
+    color: gray;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.music main section article{
+    margin-top: 20px;
+}
+
+.music main section article h3{
+    font-family: var(--font-titulo);
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.music main section article iframe{
+    width: 900px;
+    height: 500px;
+    margin-bottom: 30px;
+
+}
+
+.music main ol{
+    margin-top: 20px;
+}
+
+.music main ol li{
+    list-style-type: decimal-leading-zero;
+    margin-left: 30px;
+    line-height: 30px;
+}
+
+.music main section article a.go{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: gray;
+}

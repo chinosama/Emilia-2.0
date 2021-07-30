@@ -1,0 +1,36 @@
+.about{
+    background-image: url("/images/emilia-about.jpg");
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position: right -0px;
+}
+
+.about main{
+    padding: 10px;
+}
+
+.about h1{
+    font-family: var(--font-titulo);
+    font-size: 100px;
+    text-transform: uppercase;
+    margin-top: 100px;
+    color: black;
+}
+
+.about section article{
+    margin-top: 30px ;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+.about h3{
+    font-family: var(--font-titulo);
+    font-weight: 50px;
+    color: seagreen;
+
+}
+
+.about p{
+    color: seagreen;
+    margin-top: 20px;
+}

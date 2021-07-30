@@ -1,0 +1,28 @@
+@import url("general.css");
+@import url("index.css");
+@import url("about.css");
+@import url("music.css");
+@import url("contact.css");
+@import url("header.css");
+
+a{
+    color: rgb(0, 0, 0);
+}
+a.twitter{
+    color: lightblue;
+}
+a.facebook{
+    color: blue;
+}
+a.spotify{
+    color: green;
+}
+a.amazon{
+    color: black;
+}
+a.itunes{
+    color: violet;
+}
+a.instagram{
+    color: rgb(255, 4, 159);
+}

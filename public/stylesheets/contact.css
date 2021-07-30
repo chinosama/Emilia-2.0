@@ -1,0 +1,36 @@
+.contact h1{
+    font-family: var(--font-titulo);
+    font-size: 100px;
+    text-transform: uppercase;
+}
+
+.contact main h2{
+    font-family: var(--font-titulo);
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.contact main section h2{
+    font-family: "Work Sans";
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.contact main section h4{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: var(--colorVerde);
+    font-weight: 200;
+}
+
+.contact main section p{
+    color:gray;
+}
+
+.contact main section span{
+    color: black
+}
